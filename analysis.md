@@ -13,6 +13,8 @@ The flood was caused by a large amount of precipitation from a [mesoscale convec
 
 **Caption** Surface analysis from the [National Weather Service](https://weather.gov) analyzed at approximately 11pm Eastern Friday June 18, 2021.
 
+The MCS was associated with abnormally high amounts of instability in the atmosphere, temperatures ~10 F above normal, and strong south winds that brought additional water vapor from the Gulf of Mexico.  The system produced multiple rounds of thunderstorms with intense rainfall rates, which all developed and moved in a "training" pattern continually over the same locations (mostly along highway 46, from Terre Haute to Bloomington)
+
 ## Historical records
 ![Historical analysis of Bloomington rainfall](bloomington_rx1day_19Jun2021.png)
 **Caption** Annual maximum daily precipitation rates for Bloomington, IN from 1895 to 2020.  An estimate of the June 18--19, 2021 flood event total, based on preliminary data from [CoCoRaHS](https://maps.cocorahs.org/?maptype=precip&units=us&base=std&cp=BluYlwRed&datetype=daily&displayna=0&date=2021-06-19&key=dynamic&overlays=state,county&bbox=-87.06115722656251,38.9524673652846,-86.0723876953125,39.3995914050189), is shown as the shaded crimson bar at the right of the graph.  
@@ -44,6 +46,9 @@ This research was supported in part by Lilly Endowment, Inc., through its suppor
 # About the authors
   
 Professor [Travis A. O'Brien](https://earth.indiana.edu/directory/faculty/obrien-travis.html) drafted the initial statement and performed the data analysis of historical observations over Bloomington, IN.  Prof. O'Brien is an Assistant Professor in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/) and a faculty researcher associated with the [Environmental Resilience Insistute](https://eri.iu.edu).  Research within his group focuses on understanding what controls weather and climate phenomena that impact human and natural systems. He and his group specialize in utilizing a combination of numerical models, novel data analysis techniques, and fundamental theory to form and test hypotheses about what controls the physical characteristics and occurrence of weather patterns: from fog to extremes. This research focuses on the broad questions of: *What causes characteristics of different weather types to vary from year to year?*,  *How well do different modeling approaches simulate different weather types?*, and *How will anthropogenic climate change affect specific weather types?*.
+  
+Professor [Cody Kirkpatrick](https://earth.indiana.edu/directory/faculty/kirkpatrick-cody.html) contributed to the *Meteorological conditions* section.  Prof. Kirkpatrick is a Senior Lecturer in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/).  He teaches a range of courses in Atmospheric Sciences, geared toward training new weather forecasters.  His current research activities include: numerical simulations on the morphology and dynamics of deep, moist convection (often referred to as "thunderstorms"), recent climate trends in severe weather forecast parameters (such as wind shear, cloud base heights, and surface temperatures and dewpoints), and understanding the climatology of fire weather conditions in the United States.
+
 
   
 # Updates
