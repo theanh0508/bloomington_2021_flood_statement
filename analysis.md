@@ -21,6 +21,16 @@ The MCS was associated with abnormally high amounts of instability in the atmosp
 
 As the above graph shows, the event ranks somewhere between the 1st--3rd highest daily total on record. It is possibly the highest 24 hour rainfall observed on record; we will know more once the local observation is quality-contolled by the National Center for Environmental Information.
 
+
+![Trends in extreme rainfall in IN](extreme_trend_fig.png)
+**Caption** Extreme precipitation in Indiana (the top 1% of days of precipitation), which for Bloomington is approximately 1" of rain in a day, have increased substantially since 1900. During the early to mid part of the 20th century, we would have 1-3 such days in a year but we now experience as many as 8 per year. Plot adapted from [INCCIA report](https://docs.lib.purdue.edu/inccia/).  
+
+
+![Map of 24 hour rain rates from the CoCoRaHS network](cocorahs_jun182021.png)
+
+Several CoCoRaHS sites near Ellettsville had over 5" of rain in the last 24 hours, with one logging 7.42". Nearly all of that occurred within a 6-hour (or shorter) period, so a <0.01 probability of annual occurrence (100+ yr event). Simple interpolation of those data would place Bloomington around 5" (MC airport did not report hourly precip overnight, so it would be nice to see radar estimates too).
+
+
 ## Did climate change cause this event?
 This is a common question about disasters caused by extreme weather events, however it is an ill-posed question, since extreme weather events like this can and have (in the past) happened in the absence of climate change.  Here are a couple alternate, well-posed questions with answerws that are backed by a host peer-reviewed literature:
 
@@ -48,6 +58,8 @@ This research was supported in part by Lilly Endowment, Inc., through its suppor
 Professor [Travis A. O'Brien](https://earth.indiana.edu/directory/faculty/obrien-travis.html) drafted the initial statement and performed the data analysis of historical observations over Bloomington, IN.  Prof. O'Brien is an Assistant Professor in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/) and a faculty researcher associated with the [Environmental Resilience Insistute](https://eri.iu.edu).  Research within his group focuses on understanding what controls weather and climate phenomena that impact human and natural systems. He and his group specialize in utilizing a combination of numerical models, novel data analysis techniques, and fundamental theory to form and test hypotheses about what controls the physical characteristics and occurrence of weather patterns: from fog to extremes. This research focuses on the broad questions of: *What causes characteristics of different weather types to vary from year to year?*,  *How well do different modeling approaches simulate different weather types?*, and *How will anthropogenic climate change affect specific weather types?*.
   
 Professor [Cody Kirkpatrick](https://earth.indiana.edu/directory/faculty/kirkpatrick-cody.html) contributed to the *Meteorological conditions* section.  Prof. Kirkpatrick is a Senior Lecturer in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/).  He teaches a range of courses in Atmospheric Sciences, geared toward training new weather forecasters.  His current research activities include: numerical simulations on the morphology and dynamics of deep, moist convection (often referred to as "thunderstorms"), recent climate trends in severe weather forecast parameters (such as wind shear, cloud base heights, and surface temperatures and dewpoints), and understanding the climatology of fire weather conditions in the United States.
+
+Professor [Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-scott.html) contributed to the *Historical records* section.  Prof. Robeson is a Professor in the [Geography Department](https://geography.indiana.edu) at [Indiana University Bloomington](https://www.indiana.edu/).  Prof. Robeson's group does research on climate change detection and impacts, statistical analysis of environmental change, and spatial statistics and time-series analysis.  He contributes to the [Indiana Climate Change Impacts Assessment](https://docs.lib.purdue.edu/inccia/).
 
 
   
