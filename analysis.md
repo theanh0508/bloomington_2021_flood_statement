@@ -1,5 +1,5 @@
 # Public summary
-Intense rainfall and flooding occurred in Bloomington, IN overnight on June 18--19, 2021.  The event was caused by a massive complex of thunderstorms that parked over the Bloomington, IN area for over 8 hours.  Preliminary reports show that the system delivered 5--7 inches of rain, which puts the event in the top 3 recorded in the region: possibly the highest recorded.  Regional trends over the last century show an increase in extreme rainfall like this event, which is consistent with fundamental Atmospheric Science theories and climate model simulations of future climate change.
+Intense rainfall and flooding occurred in Bloomington, IN overnight on June 18--19, 2021.  The event was caused by a massive complex of thunderstorms that parked over the Bloomington, IN area for over 8 hours.  Preliminary reports show that the system delivered 5--7 inches of rain, which puts the event in the top 3 recorded in the region: possibly the highest recorded.  Regional trends over the last century show an increase in extreme rainfall like this event, which is consistent with fundamental Atmospheric Science theories and climate model simulations of ongoing and future climate change.
 
 # Analysis
 The sections below give a more thorough analysis of the June 18--19, 2021 flood event in Bloomington, IN. 
@@ -24,7 +24,7 @@ As the above graph shows, the event ranks somewhere between the 1st--3rd highest
 
 ![Trends in extreme rainfall in IN](extreme_trend_fig.png)
 
-**Caption** Extreme precipitation in Indiana (the top 1% of days of precipitation), which for Bloomington is approximately 1" of rain in a day, have increased substantially since 1900. During the early to mid part of the 20th century, we would have 1-3 such days in a year but we now experience as many as 8 per year. Plot adapted from [INCCIA report](https://docs.lib.purdue.edu/inccia/).  
+**Caption** Extreme precipitation in Indiana (the top 1% of days of precipitation), which for Bloomington is approximately 1" of rain in a day, have increased substantially since 1900. During the early to mid part of the 20th century, we would have 1-3 such days in a year but we now experience as many as 8 per year. Plot from [INCCIA report](https://docs.lib.purdue.edu/inccia/).  
 
 
 ![Map of 24 hour rain rates from the CoCoRaHS network](cocorahs_jun182021.png)
@@ -60,9 +60,9 @@ Professor [Travis A. O'Brien](https://earth.indiana.edu/directory/faculty/obrien
   
 Professor [Cody Kirkpatrick](https://earth.indiana.edu/directory/faculty/kirkpatrick-cody.html) contributed to the *Meteorological conditions* section.  Prof. Kirkpatrick is a Senior Lecturer in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/).  He teaches a range of courses in Atmospheric Sciences, geared toward training new weather forecasters.  His current research activities include: numerical simulations on the morphology and dynamics of deep, moist convection (often referred to as "thunderstorms"), recent climate trends in severe weather forecast parameters (such as wind shear, cloud base heights, and surface temperatures and dewpoints), and understanding the climatology of fire weather conditions in the United States.
 
-Professor [Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-scott.html) contributed to the *Historical records* section.  Prof. Robeson is a Professor in the [Geography Department](https://geography.indiana.edu) at [Indiana University Bloomington](https://www.indiana.edu/).  Prof. Robeson's group does research on climate change detection and impacts, statistical analysis of environmental change, and spatial statistics and time-series analysis.  He contributes to the [Indiana Climate Change Impacts Assessment](https://docs.lib.purdue.edu/inccia/).
+Professor [Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-scott.html) contributed to the *Historical records* section.  Prof. Robeson is a Professor in the [Geography Department](https://geography.indiana.edu) at [Indiana University Bloomington](https://www.indiana.edu/).  Prof. Robeson's group does research on climate change detection and impacts, statistical analysis of environmental change, spatial statistics, and time-series analysis.  He was a contributor to the [Indiana Climate Change Impacts Assessment](https://docs.lib.purdue.edu/inccia/).
 
 
   
 # Updates
-This statement was last update 6/19/2021 
+This statement was last updated on 6/19/2021 
