@@ -11,6 +11,7 @@ The sections below give a more thorough analysis of the June 18--19, 2021 flood 
 
 ## Scientific literature
 # Copyright
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  See *About the authors* for author information.
 # Funding
 # About the authors
 This statement was last update 6/19/2021 
