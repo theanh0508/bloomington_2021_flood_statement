@@ -1,10 +1,11 @@
 # Public summary
+Intense rainfall and flooding occurred in Bloomington, IN overnight on June 18--19, 2021.  The event was caused by a massive complex of thunderstorms that parked over the Bloomington, IN area for over 8 hours.  Preliminary reports show that the system delivered 5--7 inches of rain, which puts the event in the top 3 recorded in the region: possibly the highest recorded.  Regional trends over the last century show an increase in extreme rainfall like this event, which is consistent with fundamental Atmospheric Science theories and climate model simulations of future climate change.
 
 # Analysis
 The sections below give a more thorough analysis of the June 18--19, 2021 flood event in Bloomington, IN. 
 
 ## Meteorological conditions
-The flood was caused by a large amount of precipitation from a [mesoscale convective system (MCS)](https://glossary.ametsoc.org/wiki/Mesoscale_convective_system) associated with a stationary front (see NWS analysis below).  The MCS strengthened overnight on June 18 and remained stationary; precipitation from the storm continued through June 19.  A weather station in Bloomington, IN recorded over 10,000 lightning strikes within a 30 mile radius overnight.
+The flood was caused by a large amount of precipitation from a [mesoscale convective system (MCS)](https://glossary.ametsoc.org/wiki/Mesoscale_convective_system) associated with a [quasi-stationary front](https://glossary.ametsoc.org/wiki/Quasi-stationary_front) (see NWS analysis map below).  The MCS strengthened overnight on June 18 and remained stationary; precipitation from the storm continued through June 19.  A weather station in Bloomington, IN recorded over 10,000 lightning strikes within a 30 mile radius overnight.
 
 [Local weather observers](https://maps.cocorahs.org/?maptype=precip&units=us&base=std&cp=BluYlwRed&datetype=daily&displayna=0&date=2021-06-19&key=dynamic&overlays=state,county&bbox=-87.06115722656251,38.9524673652846,-86.0723876953125,39.3995914050189) recorded 5--7 inches of rainfall within a 24 hour period.
 
@@ -14,7 +15,9 @@ The flood was caused by a large amount of precipitation from a [mesoscale convec
 
 ## Historical records
 ![Historical analysis of Bloomington rainfall](bloomington_rx1day_19Jun2021.png)
-**Caption** Annual maximum daily precipitation rates for Bloomington, IN from 1895 to 2020.  An estimate of the June 18--19, 2021 flood event total, based on preliminary data from [CoCoRaHS](https://maps.cocorahs.org/?maptype=precip&units=us&base=std&cp=BluYlwRed&datetype=daily&displayna=0&date=2021-06-19&key=dynamic&overlays=state,county&bbox=-87.06115722656251,38.9524673652846,-86.0723876953125,39.3995914050189), is shown as the shaded crimson bar at the right of the graph.  The event ranks somewhere between the 1st--3rd highest daily total on record.
+**Caption** Annual maximum daily precipitation rates for Bloomington, IN from 1895 to 2020.  An estimate of the June 18--19, 2021 flood event total, based on preliminary data from [CoCoRaHS](https://maps.cocorahs.org/?maptype=precip&units=us&base=std&cp=BluYlwRed&datetype=daily&displayna=0&date=2021-06-19&key=dynamic&overlays=state,county&bbox=-87.06115722656251,38.9524673652846,-86.0723876953125,39.3995914050189), is shown as the shaded crimson bar at the right of the graph.  
+
+As the above graph shows, the event ranks somewhere between the 1st--3rd highest daily total on record. It is possibly the highest 24 hour rainfall observed on record; we will know more once the local observation is quality-contolled by the National Center for Environmental Information.
 
 ## Did climate change cause this event?
 This is a common question about disasters caused by extreme weather events, however it is an ill-posed question, since extreme weather events like this can and have (in the past) happened in the absence of climate change.  Here are a couple alternate, well-posed questions with answerws that are backed by a host peer-reviewed literature:
