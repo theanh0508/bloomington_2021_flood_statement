@@ -39,4 +39,9 @@ Effort on this work was partially supported by the [Environmental Resilience Ins
 This research was supported in part by Lilly Endowment, Inc., through its support for the Indiana University Pervasive Technology Institute.  The authors acknowledge the Indiana University Pervasive Technology Institute for providing supercomputing and storage resources that have contributed to the research results reported within this work. 
   
 # About the authors
+  
+Professor [Travis A. O'Brien](https://earth.indiana.edu/directory/faculty/obrien-travis.html) drafted the initial statement and performed the data analysis of historical observations over Bloomington, IN.  Prof. O'Brien is an Assistant Professor in the [Earth and Atmospheric Sciences Department](https://earth.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu/) and a faculty researcher associated with the [Environmental Resilience Insistute](https://eri.iu.edu).  Research within his group focuses on understanding what controls weather and climate phenomena that impact human and natural systems. He and his group specialize in utilizing a combination of numerical models, novel data analysis techniques, and fundamental theory to form and test hypotheses about what controls the physical characteristics and occurrence of weather patterns: from fog to extremes. This research focuses on the broad questions of: *What causes characteristics of different weather types to vary from year to year?*,  *How well do different modeling approaches simulate different weather types?*, and *How will anthropogenic climate change affect specific weather types?*.
+
+  
+# Updates
 This statement was last update 6/19/2021 
