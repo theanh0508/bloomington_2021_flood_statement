@@ -23,12 +23,13 @@ As the above graph shows, the event ranks somewhere between the 1st--3rd highest
 
 
 ![Trends in extreme rainfall in IN](extreme_trend_fig.png)
+
 **Caption** Extreme precipitation in Indiana (the top 1% of days of precipitation), which for Bloomington is approximately 1" of rain in a day, have increased substantially since 1900. During the early to mid part of the 20th century, we would have 1-3 such days in a year but we now experience as many as 8 per year. Plot adapted from [INCCIA report](https://docs.lib.purdue.edu/inccia/).  
 
 
 ![Map of 24 hour rain rates from the CoCoRaHS network](cocorahs_jun182021.png)
 
-Several CoCoRaHS sites near Ellettsville had over 5" of rain in the last 24 hours, with one logging 7.42". Nearly all of that occurred within a 6-hour (or shorter) period, so a <0.01 probability of annual occurrence (100+ yr event). Simple interpolation of those data would place Bloomington around 5" (MC airport did not report hourly precip overnight, so it would be nice to see radar estimates too).
+Several CoCoRaHS sites near Ellettsville had over 5" of rain in the last 24 hours, with one logging 7.42". Nearly all of that occurred within a 6-hour (or shorter) period, so a <0.01 probability of annual occurrence (100+ yr event; see (https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html?bkmrk=in)[https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html?bkmrk=in]). Simple interpolation of those data would place Bloomington around 5" (MC airport did not report hourly precip overnight, so it would be nice to see radar estimates too).
 
 
 ## Did climate change cause this event?
