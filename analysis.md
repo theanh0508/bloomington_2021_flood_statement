@@ -33,7 +33,7 @@ Several CoCoRaHS sites near Ellettsville had over 5" of rain in the last 24 hour
 
 
 ## Did climate change cause this event?
-This is a common question about disasters caused by extreme weather events, however it is an ill-posed question, since extreme weather events like this can and have (in the past) happened in the absence of climate change.  Here are a couple alternate, well-posed questions with answerws that are backed by a host peer-reviewed literature:
+This is a common question about disasters caused by extreme weather events, however it is an ill-posed question, since extreme weather events like this can and have (in the past) happened in the absence of climate change.  Here are a couple alternate, well-posed questions with answers that are backed by a host peer-reviewed literature:
 
 ### Have we observed changes in extreme rainfall like this?
 Analysis of precipitation observations shows that the intensity of the 20 year storm (a storm so strong it is only likely to happen once every 20 years) may have increased by approximately 10% over the last century over Indiana (Risser et al., 2019).  The short record makes it difficult to distinguish this trend from noise in the data.  The increasing trend is consistent with theoretical expectations and with climate model simulations (IPCC 2014 and references within), which builds confidence that the observed trend is real and not a statistical artifact.
