@@ -16,10 +16,10 @@ The flood was caused by a large amount of precipitation from a [mesoscale convec
 The MCS was associated with abnormally high amounts of instability in the atmosphere, temperatures ~10 F above normal, and strong south winds that brought additional water vapor from the Gulf of Mexico.  The system produced multiple rounds of thunderstorms with intense rainfall rates, which all developed and moved in a "training" pattern continually over the same locations (mostly along highway 46, from Terre Haute to Bloomington)
 
 ## Historical records
-![Historical analysis of Bloomington rainfall](bloomington_rx1day_19Jun2021.png)
-**Caption** Annual maximum daily precipitation rates for Bloomington, IN from 1895 to 2020.  An estimate of the June 18--19, 2021 flood event total, based on preliminary data from [CoCoRaHS](https://maps.cocorahs.org/?maptype=precip&units=us&base=std&cp=BluYlwRed&datetype=daily&displayna=0&date=2021-06-19&key=dynamic&overlays=state,county&bbox=-87.06115722656251,38.9524673652846,-86.0723876953125,39.3995914050189), is shown as the shaded crimson bar at the right of the graph.  
+![Historical analysis of Bloomington rainfall](bloomington_rx2day_21Jun2021.png)
+**Caption** Annual maximum  2-day precipitation total for Bloomington, IN from 1895 to 2021.  The June 18--19, 2021 event produced 6.1 inches of rainfall over 48 hours.  
 
-As the above graph shows, the event ranks somewhere between the 1st--3rd highest daily total on record. It is possibly the highest 24 hour rainfall observed on record; we will know more once the local observation is quality-contolled by the National Center for Environmental Information.
+The June 18--19, 2021 evnet ranks 3rd in the entire record and is the largest 2-day total in the last 100 years.  Statistical analysis indicates that this was approximately a 30-year event; e.g., we only expect an event of this magnitude once every 30 years or so.  Trend analysis of the above graph is inconclusive; a positive trend cannot be ruled out, but neither can a negative trend.  More advanced statistical analysis can borrow statistical strength from neighboring stations in order to reduce the signal to noise ratio (e.g., Risser et al., 2019; see *Did climate change cause this event?*).
 
 
 ![Trends in extreme rainfall in IN](extreme_trend_fig.png)
