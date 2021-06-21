@@ -1,5 +1,5 @@
-# Public summary
-Intense rainfall and flooding occurred in Bloomington, IN overnight on June 18--19, 2021.  The event was caused by a massive complex of thunderstorms that parked over the Bloomington, IN area for over 8 hours.  Preliminary reports show that the system delivered 5--7 inches of rain, which puts the event in the top 3 recorded in the region: possibly the highest recorded.  Regional trends over the last century show an increase in extreme rainfall like this event, which is consistent with fundamental Atmospheric Science theories and climate model simulations of ongoing and future climate change.
+# Plain-language summary
+Intense rainfall and flooding occurred in Bloomington, IN overnight on June 18--19, 2021.  The event was caused by a massive complex of thunderstorms that parked over the Bloomington, IN area for over 8 hours.  Preliminary reports show that the system delivered 6.1 inches of rain at the IU Bloomington station, which puts the event as the 3rd on record and the largest in over 100 years.  Regional trends over the last century show an increase in extreme rainfall like this event, which is consistent with fundamental Atmospheric Science theories and climate model simulations of ongoing and future climate change.
 
 # Analysis
 The sections below give a more thorough analysis of the June 18--19, 2021 flood event in Bloomington, IN. 
