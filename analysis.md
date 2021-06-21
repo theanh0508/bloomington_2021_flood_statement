@@ -50,7 +50,7 @@ Climate model simulations indicate that climate change will (1) increase the fre
 
 # Funding
 
-Effort on this work was partially supported by the [Environmental Resilience Institute](https://eri.iu.edu/) at Indiana University: part of the Prepared for Environmental Change Grand Challenge.
+The authors were supported by the Environmental Resilience Institute, funded by Indiana University’s Prepared for Environmental Change Grand Challenge initiative.
   
 This research was supported in part by Lilly Endowment, Inc., through its support for the Indiana University Pervasive Technology Institute.  The authors acknowledge the Indiana University Pervasive Technology Institute for providing supercomputing and storage resources that have contributed to the research results reported within this work. 
   
@@ -63,6 +63,5 @@ Professor [Cody Kirkpatrick](https://earth.indiana.edu/directory/faculty/kirkpat
 Professor [Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-scott.html) contributed to the *Historical records* section.  Prof. Robeson is a Professor in the [Geography Department](https://geography.indiana.edu) at [Indiana University Bloomington](https://www.indiana.edu/).  Prof. Robeson's group does research on climate change detection and impacts, statistical analysis of environmental change, spatial statistics, and time-series analysis.  He was a contributor to the [Indiana Climate Change Impacts Assessment](https://docs.lib.purdue.edu/inccia/).
 
 
-  
 # Updates
-This statement was last updated on 6/19/2021 
+This statement was last updated on 6/21/2021 
