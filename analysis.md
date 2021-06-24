@@ -19,7 +19,7 @@ The MCS was associated with abnormally high amounts of instability in the atmosp
 ![Historical analysis of Bloomington rainfall](bloomington_rx2day_21Jun2021.png)
 **Caption** Annual maximum  2-day precipitation total for Bloomington, IN from 1895 to 2021.  The June 18--19, 2021 event produced 6.1 inches of rainfall over 48 hours.  
 
-The June 18--19, 2021 event ranks 3rd in the entire record and is the largest 2-day total in the last 100 years.  Statistical analysis indicates that this was approximately a 30-year event; e.g., we only expect an event of this magnitude once every 30 years or so.  Trend analysis of the above graph is inconclusive; a positive trend cannot be ruled out, but neither can a negative trend.  More advanced statistical analysis can borrow statistical strength from neighboring stations in order to reduce the signal to noise ratio (e.g., Risser et al., 2019; see *Did climate change cause this event?*).
+The June 18--19, 2021 event ranks 3rd in the entire record and is the largest 2-day total in the last 100 years.  Statistical analysis indicates that this magnitude of rain over a 48 hour period is approximately a 30-year event; e.g., we only expect this much rainfall over a 48 hour period once every 30 years or so.  As noted below, however, most of the precipitation actually fell within a much shorter timeframe, which may be much rarer.  Trend analysis of the above graph is inconclusive; a positive trend cannot be ruled out, but neither can a negative trend.  More advanced statistical analysis can borrow statistical strength from neighboring stations in order to reduce the signal to noise ratio (e.g., Risser et al., 2019; see *Did climate change cause this event?*).
 
 
 ![Trends in extreme rainfall in IN](extreme_trend_fig.png)
@@ -64,4 +64,4 @@ Professor [Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-sc
 
 
 # Updates
-This statement was last updated on 6/21/2021 
+This statement was last updated on 6/24/2021 
